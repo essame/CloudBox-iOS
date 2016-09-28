@@ -33,7 +33,7 @@ static NSString * const kBundledResourcesPathKey = @"path";
 
 static NSString * const kLocalResourcesDirectory = @"GBCloudBoxResources";
 
-static NSString * const kRemoteResourcesMetaPath = @"GBCloudBoxResourcesMeta";
+static NSString * const kRemoteResourcesMetaPath = @"CloudBoxAPIResourcesMeta";
 static NSString * const kRemoteMetaVersionKey = @"v";
 static NSString * const kRemoteMetaMD5 = @"md5";
 static NSString * const kRemoteMetaURLKey = @"url";
